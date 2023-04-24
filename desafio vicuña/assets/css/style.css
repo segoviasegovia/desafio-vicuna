@@ -1,0 +1,106 @@
+header{
+    background-image: url(../img/chimborazo-vicunas-3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 250px;
+    text-shadow: 0px 3px 6px black;
+    margin: auto;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    color: white;
+    text-align: right;
+
+}
+
+header h1{
+    font-size: 50px;
+    font-family: 'Permanent Marker', cursive;
+    margin-right: 10px;
+}
+
+header h2{
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: 'Kaushan Script', cursive;
+    margin-right: 10px;
+
+}
+
+#informacion{
+    background: rgba(221, 218, 173, 0.904);
+    padding: 40px;
+    color: black;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin-top: 9px;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: black;
+    margin-top: 0px;
+}
+
+.evaluacion .texto {
+    width: 70%;
+    margin-left: 4%;
+}
+
+.evaluacion img, .texto {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#historia{
+    background: rgba(158, 113, 62, 0.904);
+    padding: 40px;
+    color: black;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin-top: 9px;
+}
+
+.histo .parrafo {
+    width: 70%;
+    margin-left: 4%;
+}
+
+.histo img, .parrafo {
+    display: inline-block;
+    vertical-align: middle;
+}
+.histo img{
+    padding: 10px;
+    padding-right: 50px;
+    float: right;
+}
+
+footer {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: #000f08;
+    color: white;
+    padding: 80px;
+    margin-top: 9px;
+    border-color: black;
+    border-width: 5px;
+}
+i {
+    font-size: 30px
+}
+
+#paguina2{
+    background: rgba(221, 218, 173, 0.904);
+    padding: 40px;
+    color: black;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin-top: 9px;
+}
